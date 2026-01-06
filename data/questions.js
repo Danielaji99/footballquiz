@@ -5,7 +5,7 @@ export const quizQuestions = [
     options: ["Brazil", "Germany", "France", "Argentina"],
     correctAnswer: 2,
     image:
-      "https://images.unsplash.com/photo-1527871454777-748d702893dc?w=800&q=80",
+      "https://images.unsplash.com/photo-1637203727318-fb31b63e2377?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNsdWIlMjB3b3JsZCUyMGN1cHxlbnwwfHwwfHx8MA%3D%3D",
   },
   {
     id: 2,

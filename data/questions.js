@@ -21,7 +21,7 @@ export const quizQuestions = [
     options: ["Barcelona", "Real Madrid", "AC Milan", "Liverpool"],
     correctAnswer: 1,
     image:
-      "https://images.unsplash.com/photo-1522778526097-83f9b5a7f9c6?w=800&q=80",
+      "https://images.unsplash.com/photo-1568574262672-e00a083cba61?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNoYW1waW9ucyUyMGxlYWd1ZXxlbnwwfHwwfHx8MA%3D%3D",
   },
   {
     id: 4,
@@ -45,6 +45,6 @@ export const quizQuestions = [
     options: ["Real Madrid", "Barcelona", "PSG", "Chelsea"],
     correctAnswer: 3,
     image:
-      "https://media.gettyimages.com/id/2218051337/photo/los-angeles-california-a-detailed-view-of-the-club-world-cup-trophy-before-the-game-between.jpg?s=612x612&w=0&k=20&c=IguSVFFivf1duGQP5hDP3ZSb5eQj5Gn3g2FH2GjWcXQ=",
+      "https://images.unsplash.com/photo-1542490101-4be93d1756e0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 ];
